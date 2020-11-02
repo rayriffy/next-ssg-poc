@@ -9,7 +9,6 @@ interface IProps {
 
 const Page: NextPage = props => {
   const router = useRouter()
-  // trigger changes
 
   return (
     <div className="p-6">
