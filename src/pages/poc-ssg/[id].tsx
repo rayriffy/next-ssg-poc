@@ -13,7 +13,7 @@ const Page: NextPage = props => {
   return (
     <div className="p-6">
       <h1 className="text-xl font-bold text-gray-800">
-        POC of bug in getStaticProps fallback
+        POC of bug in getStaticProps fallback.
       </h1>
       <p className="text-md text-gray-500">
         /1 /2 /3 is statically generated, this should work just fine, but for
