@@ -59,7 +59,7 @@ module.exports = withPlugins(
   ],
   {
     target: 'serverless',
-    distDir: '_somewhatownnext',
+    // distDir: '_somewhatownnext',
     experimental: {
       modern: true,
       optimizeFonts: true,
